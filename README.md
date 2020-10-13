@@ -6,9 +6,4 @@
 
 <div align=center><img src="https://open.saintic.com/api/bingPic/"></div>
 
-```
-vmess://eyJhZGQiOiJiYjEyMDYuY29tIiwiYWlkIjoiNjQiLCJob3N0IjoiIiwiaWQiOiJkMGZlN2UxMy1lYjE0LTQ5NmItYjk5MS0xNmZhMmNlZmJkMDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmIxMjA2IiwicG9ydCI6IjIwOTgzIiwicHMiOiJ3d3cuYmIxMjA2LmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-```
-
-
 
